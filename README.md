@@ -1,0 +1,2 @@
+# GM
+general game manager
